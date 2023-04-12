@@ -1,0 +1,12 @@
+h1{
+    border: solid #ff6600 10px;
+    /* border-width: 10px 5px; */
+    background-color: #ffb380;
+    padding:1em;
+    margin-bottom:1em;
+
+}
+
+p {
+    border-bottom: 3px dotted #0099ff;
+   }
